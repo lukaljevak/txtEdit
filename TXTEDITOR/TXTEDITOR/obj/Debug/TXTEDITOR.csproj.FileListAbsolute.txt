@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\bin\Debug\TXTEDITOR.exe.config
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\bin\Debug\TXTEDITOR.exe
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\bin\Debug\TXTEDITOR.pdb
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\obj\Debug\TXTEDITOR.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\obj\Debug\TXTEDITOR.Form1.resources
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\obj\Debug\TXTEDITOR.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\obj\Debug\TXTEDITOR.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\obj\Debug\TXTEDITOR.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\obj\Debug\TXTEDITOR.exe
+C:\Users\Ucenik\source\repos\TXTEDITOR\TXTEDITOR\obj\Debug\TXTEDITOR.pdb
